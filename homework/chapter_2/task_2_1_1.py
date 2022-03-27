@@ -5,3 +5,5 @@ def summation(inpet):
         sum += int(i)
     return sum
 print(summation(input()))
+
+#AHAHAHAHAHAHHAHAHAHAHAH
